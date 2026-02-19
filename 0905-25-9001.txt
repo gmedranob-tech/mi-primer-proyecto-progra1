@@ -1,0 +1,5 @@
+1. Aprendí que Git me ayuda a llevar un control de todos los cambios que hago en un proyecto, a trabajar con ramas y a fusionarlas, lo cual facilita mucho la organización y colaboración.
+
+2. Trabajé sola en esta tarea, así que no tuve ningún conflicto. Me dio confianza saber cómo se resolverían los conflictos si llegara a trabajar en pareja.
+
+3. Usar Git en proyectos de programación es muy útil porque permite mantener un historial de los cambios, colaborar con otros sin perder información y tener un respaldo seguro de mi trabajo.
